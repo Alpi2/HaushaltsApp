@@ -276,3 +276,40 @@ npm run build
 # Backend Build
 npm run server:build
 ```
+
+## 🖼️ Bildschirmfotos
+
+<div align="center">
+  <h2>📱 Uygulama Ekran Görüntüleri</h2>
+  
+  <!-- Resim 1 -->
+  <h3>1. die Benachrichtigungsseite</h3>
+  <img src="images/Notifikationen.png" alt="Ablaufende Lebensmittel, Zahlungserinnerungen und Pinnwand" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <!-- Resim 2 -->
+  <h3>2. Finanzmanagement</h3>
+  <img src="images/Kassenbuch1.png" alt="Monatliche Ausgabenanalyse und Budget-Tracking" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <img src="images/Kassenbuch1.png" alt="Monatliche Ausgabenanalyse und Budget-Tracking" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <img src="images/Kassenbuch2.png" alt="Monatliche Ausgabenanalyse und Budget-Tracking" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <img src="images/Kassenbuch3.png" alt="Monatliche Ausgabenanalyse und Budget-Tracking" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <img src="images/Kassenbuch4.png" alt="Monatliche Ausgabenanalyse und Budget-Tracking" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+<img src="images/Kassenbuch5.png" alt="Monatliche Ausgabenanalyse und Budget-Tracking" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <img src="images/Kassenbuch6.png" alt="Monatliche Ausgabenanalyse und Budget-Tracking" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <h3>3. Lebensmittelverwaltung</h3>
+  <img src="images/Lebensmittel.png" alt="Anzeige von Ablaufdatum, Lagerbestand und Preis täglich oder monatlich" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <h3>4. Einkauflisteverwaltung</h3>
+  <img src="images/Einkaufliste1.png.png" alt="Erstellung, Speicherung und Freigabe von Einkaufslisten" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+
+  <img src="images/Einkaufliste2.png.png" alt="Erstellung, Speicherung und Freigabe von Einkaufslisten" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+  ...
+  
+  <p style="margin-top:30px;color:#666;">✨Alle Bildschirme sind der echten Benutzeroberfläche entnommen</p>
+</div>
