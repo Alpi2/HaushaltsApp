@@ -306,9 +306,9 @@ npm run server:build
   <img src="images/Lebensmittel.png" alt="Anzeige von Ablaufdatum, Lagerbestand und Preis täglich oder monatlich" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
 
   <h3>4. Einkauflisteverwaltung</h3>
-  <img src="images/Einkaufliste1.png." alt="Erstellung, Speicherung und Freigabe von Einkaufslisten" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+  <img src="images/Einkaufliste1.png" alt="Erstellung, Speicherung und Freigabe von Einkaufslisten" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
 
-  <img src="images/Einkaufliste2.png." alt="Erstellung, Speicherung und Freigabe von Einkaufslisten" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
+  <img src="images/Einkaufliste2.png" alt="Erstellung, Speicherung und Freigabe von Einkaufslisten" width="800" style="border-radius:12px;margin:25px 0;box-shadow:0 5px 15px rgba(0,0,0,0.1);border:1px solid #f0f0f0;">
   ...
   
   <p style="margin-top:30px;color:#666;">✨Alle Bildschirme sind der echten Benutzeroberfläche entnommen</p>
